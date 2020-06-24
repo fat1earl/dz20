@@ -1,0 +1,24 @@
+header {
+    font-size: 20px;
+    // border-radius: 4px;
+    background: #999;
+    color: #999;
+    
+    
+    
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    li {
+        list-style-type: none;
+        display: inline;
+        margin-right: auto;
+        padding: 20px;
+        // display: flex;
+    }
+    li:hover {
+        background: rgb(53, 52, 52);
+    }
+
+  }

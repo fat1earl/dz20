@@ -1,0 +1,33 @@
+footer {
+    font-size: 20px;
+    background: rgb(54, 54, 54);
+    color: #999;
+  
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    ul {
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    li {
+        list-style-type: none;
+        margin-right: auto;
+        padding: 5px 0;
+    }
+    li:hover {
+        background: black;
+    }
+    div {
+        margin: 10px 40px;
+    }
+    h4 {
+        padding: 10px 0;
+    }
+
+  }
+  .footer_nav {
+      display: flex;
+  }
